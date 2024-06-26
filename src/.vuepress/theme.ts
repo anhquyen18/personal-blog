@@ -49,7 +49,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "Chưa biết mình là cái gì",
+        description: "Not just a developer",
         intro: "/intro.html",
       },
 
@@ -75,7 +75,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "Don't what i am",
+        description: "Not just a developer",
         intro: "/en/intro.html",
       },
 

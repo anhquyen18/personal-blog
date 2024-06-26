@@ -16,7 +16,7 @@ export const vnSidebar = sidebar({
   //     children: "structure",
   //   },
   // ],
-  "/posts/AWS/basic-ebs-volume/": "structure",
+  "/posts/AWS/oauth-cognito/": "structure",
   
   // "/posts/AWS/basic-ebs-volume/":[
   //   // "",
