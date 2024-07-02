@@ -1,0 +1,9 @@
+Authentication with OAuth and Amazon Cognito
+- private s3
+- static web s3
+- cloudfront
+- google api key
+- config cognito identity
+- create iam role for cognito identity
+- test app
+- clean resources
