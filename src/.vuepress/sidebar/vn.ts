@@ -17,6 +17,7 @@ export const vnSidebar = sidebar({
   //   },
   // ],
   "/posts/AWS/oauth-cognito/": "structure",
+  "/posts/AWS/prevent-security-risks/": "structure",
   
   // "/posts/AWS/basic-ebs-volume/":[
   //   // "",

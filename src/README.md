@@ -5,8 +5,8 @@ icon: home
 title: Blogs
 # heroImage: /assets/images/luffy-chilling-gear5-round.png
 heroText: Mấy bài viết linh tinh của Anh Quyền
-tagline: Đừng coi trọng bản thân mình, hãy cười cợt ngay cả về chính bạn.
-bgImage: /assets/images/Going-sunny.jpg
+# tagline: Đừng coi trọng bản thân mình, hãy cười cợt ngay cả về chính bạn.
+bgImage: /assets/images/luffy-3.png
 heroFullScreen: true
 # projects:
 #   - icon: project
@@ -14,5 +14,5 @@ heroFullScreen: true
 #     desc: project detailed description
 #     link: https://your.project.link
 
-footer: Cuộc đời hạnh phúc nhất là được đi ngủ
+footer: Ngủ đủ giấc, code không bug
 ---

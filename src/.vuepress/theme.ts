@@ -44,7 +44,7 @@ export default hopeTheme({
       // sidebar
       sidebar: vnSidebar,
 
-      footer: "Cuộc đời hạnh phúc nhất là được đi ngủ",
+      footer: "Ngủ đủ giấc, code không bug",
 
       displayFooter: true,
 
